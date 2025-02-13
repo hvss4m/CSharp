@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\CSharp\Cherki\S1TP2\bin\Debug\net9.0\S1TP2.exe
+C:\Users\HP\Desktop\CSharp\Cherki\S1TP2\bin\Debug\net9.0\S1TP2.deps.json
+C:\Users\HP\Desktop\CSharp\Cherki\S1TP2\bin\Debug\net9.0\S1TP2.runtimeconfig.json
+C:\Users\HP\Desktop\CSharp\Cherki\S1TP2\bin\Debug\net9.0\S1TP2.dll
+C:\Users\HP\Desktop\CSharp\Cherki\S1TP2\bin\Debug\net9.0\S1TP2.pdb
+C:\Users\HP\Desktop\CSharp\Cherki\S1TP2\obj\Debug\net9.0\S1TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CSharp\Cherki\S1TP2\obj\Debug\net9.0\S1TP2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CSharp\Cherki\S1TP2\obj\Debug\net9.0\S1TP2.AssemblyInfo.cs
+C:\Users\HP\Desktop\CSharp\Cherki\S1TP2\obj\Debug\net9.0\S1TP2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CSharp\Cherki\S1TP2\obj\Debug\net9.0\S1TP2.dll
+C:\Users\HP\Desktop\CSharp\Cherki\S1TP2\obj\Debug\net9.0\refint\S1TP2.dll
+C:\Users\HP\Desktop\CSharp\Cherki\S1TP2\obj\Debug\net9.0\S1TP2.pdb
+C:\Users\HP\Desktop\CSharp\Cherki\S1TP2\obj\Debug\net9.0\S1TP2.genruntimeconfig.cache
+C:\Users\HP\Desktop\CSharp\Cherki\S1TP2\obj\Debug\net9.0\ref\S1TP2.dll
