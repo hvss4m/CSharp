@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2TP1", "S2TP1\S2TP1.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2TP2", "S2TP2\S2TP2.csproj", "{EFC7A746-F60B-40BF-9EF3-9307E426A346}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3", "S3\S3.csproj", "{2AF5572B-D880-4180-B8FE-2699E2EFEBEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{EFC7A746-F60B-40BF-9EF3-9307E426A346}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFC7A746-F60B-40BF-9EF3-9307E426A346}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFC7A746-F60B-40BF-9EF3-9307E426A346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF5572B-D880-4180-B8FE-2699E2EFEBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF5572B-D880-4180-B8FE-2699E2EFEBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF5572B-D880-4180-B8FE-2699E2EFEBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF5572B-D880-4180-B8FE-2699E2EFEBEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
